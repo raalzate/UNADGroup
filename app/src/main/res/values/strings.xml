@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UNAD Group</string>
+    <string name="parse_id">CNbgtTmdfU5ZCFd8HdQ9rcalbXxI0QJZTwlWLbJN</string>
+    <string name="parse_key">hPmBtmXLy7uDS0ZDzUTTUKFxI5wT6m6NfsV6AB7J</string>
+    <string name="title_activity_chat">ChatActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
